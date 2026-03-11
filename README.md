@@ -1,21 +1,21 @@
 # FitAI Analyzer — Privacy Policy
 
-Repository pubblico contenente la Privacy Policy dell'app fitness **FitAI Analyzer**.
+Public repository containing the Privacy Policy for the **FitAI Analyzer** fitness app.
 
-## Contenuto
+## Content
 
-- **privacy-policy.html** — Documento completo della Privacy Policy in italiano
+- **privacy-policy.html** — Full Privacy Policy document in English
 
-## Sezioni principali
+## Main Sections
 
-1. **Raccolta dati attività** — Come vengono raccolti e utilizzati i dati delle attività fitness
-2. **Uso dati Garmin** — Integrazione con Garmin Connect e trattamento dei dati
-3. **OAuth login** — Autenticazione sicura e gestione degli accessi
-4. **Analytics** — Dati analitici raccolti per migliorare l'app
+1. **Activity Data Collection** — How fitness activity data is collected and used
+2. **Garmin Data Usage** — Integration with Garmin Connect and data handling
+3. **OAuth Login** — Secure authentication and access management
+4. **Analytics** — Analytics data collected to improve the app
 
-## Visualizzazione
+## Viewing
 
-Apri `privacy-policy.html` nel browser per leggere la policy completa.
+Open `privacy-policy.html` in a browser to read the full policy.
 
 ---
 
