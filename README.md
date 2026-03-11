@@ -4,6 +4,7 @@ Public repository containing the Privacy Policy for the **FitAI Analyzer** fitne
 
 ## Content
 
+- **index.html** — Home page with app overview, sync features, and AI analyzers
 - **privacy-policy.html** — Full Privacy Policy document in English
 
 ## Main Sections
